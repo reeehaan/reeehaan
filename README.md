@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reeehaan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently following a computing degree 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
      rehan221104@gmail.com 
