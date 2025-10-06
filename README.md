@@ -36,14 +36,19 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-### Languages & Frameworks
+
+<h3 align="center">Languages & Frameworks</h3>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,mui,laravel,java,python,spring,firebase,aws,bootstrap,php,mysql,postgresql&perline=8" width="600"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,mui,laravel,java,python,spring,firebase,aws,bootstrap,php,mysql,postgresql&perline=10" width="650"/>
 </div>
+
 <br/>
-### Tools
+
+<h3 align="center">Tools</h3>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,arduino,figma,pr,vscode,eclipse,postman,selenium,github,discord&perline=5" width="400"/>
+    <img src="https://skillicons.dev/icons?i=git,arduino,figma,pr,vscode,eclipse,postman,selenium,github,discord&perline=10" width="650"/>
 </div>
 
 <br/>
