@@ -48,7 +48,7 @@
 <h3 align="center">Tools</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,pr,vscode,eclipse,selenium,github,discord&perline=10" width="650"/>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,pr,eclipse,selenium,discord,idea,pycharm&perline=10" width="650"/>
 </div>
 
 <br/>
