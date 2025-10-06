@@ -40,7 +40,7 @@
 <h3 align="center">Languages & Frameworks</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,mui,laravel,java,python,spring,firebase,aws,bootstrap,php,mysql,postgresql&perline=10" width="650"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,mui,laravel,java,python,spring,firebase,aws,bootstrap,php,mongodb,mysql,postgresql&perline=10" width="650"/>
 </div>
 
 <br/>
