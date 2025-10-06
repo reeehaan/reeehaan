@@ -46,7 +46,7 @@
 
 ### Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,arduino,figma,pr,vscode,eclipse,postman,selenium,github,discord&perline=5" width="600"/>
+    <img src="https://skillicons.dev/icons?i=git,arduino,figma,pr,vscode,eclipse,postman,selenium,github,discord&perline=5" width="400"/>
 </div>
 
 <br/>
