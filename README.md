@@ -39,14 +39,14 @@
 
 ### Languages & Frameworks
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,laravel,java,python,spring,firebase,aws,bootstrap,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,laravel,java,python,spring,firebase,aws,bootstrap,php&perline=8" width="600"/>
 </div>
 
 <br/>
 
 ### Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,arduino,figma,pr,vscode,eclipse,postman,selenium,github,discord" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,figma,pr,vscode,eclipse,postman,selenium,github,discord&perline=5" width="400"/>
 </div>
 
 <br/>
