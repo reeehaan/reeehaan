@@ -1,89 +1,117 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rehan+Hansaja!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
-
-<br/>
-
 <div align="center">
- 
-🔭 I'm currently studying **BSc (Hons) in Computing (Information Systems)** 
- 
- 🌱 I’m currently learning **Docker, AWS, Python**
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4&mode=dark" width="100%" alt="Rehan Hansaja — profile" />
+  </picture>
 
-💬 Ask me about **React, NodeJS, MongoDB... or anything [here](https://github.com/reeehaan/reeehaan/issues)**
+<h1>Rehan Hansaja</h1>
+<p><strong>Full-stack software developer</strong></p>
+<p>BSc (Hons) in Computing (Information Systems)</p>
+<p><sub>Based in Sri Lanka 🇱🇰 · Building with React, Node.js and Python</sub></p>
 
-⚡ Fun fact **Breaking Bad's meth is actually blue rock candy**
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>15</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>MERN</strong><br /><sub>Primary stack</sub></td>
+</tr>
+</table>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:rehanhansajadev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/rehan-hansaja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rehan_hansaja/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p>
+  <a href="https://github.com/reeehaan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/rehan-hansaja">LinkedIn</a> ·
+  <a href="https://www.instagram.com/rehan_hansaja/">Instagram</a> ·
+  <a href="mailto:rehanhansajadev@gmail.com">Email</a>
+</p>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2>Building in public</h2>
 
-<h3 align="center">Languages & Frameworks</h3>
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<p>Software developer studying Information Systems, building full-stack web apps and a final-year music information retrieval project.</p>
+<p><strong>Focus:</strong> React · Node.js · TypeScript · Python</p>
+<p><strong>Learning:</strong> Docker · AWS · Python</p>
+<p><sub>Ask me about React, Node.js, MongoDB or anything else <a href="https://github.com/reeehaan/reeehaan/issues">here</a>.</sub></p>
+</td>
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Rehan Hansaja animated colored ASCII portrait" />
+</td>
+</tr>
+</table>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,html,js,css,tailwind,mui,laravel,java,python,spring,firebase,aws,bootstrap,php,mongodb,mysql,postgresql&perline=10" width="650"/>
-</div>
+<h2>Featured work</h2>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/reeehaan/chordsync"><strong>ChordSync</strong></a></h3>
+<p>Final-year Music Information Retrieval project that recognizes guitar chords, beats and lyrics from audio and syncs them into an interactive Flutter practice timeline.</p>
+<p><sub>Python · Flutter · ⭐ 1 star</sub></p>
+<p><a href="https://github.com/reeehaan/chordsync">View project →</a></p>
+</td>
+</tr>
+</table>
 
-<h3 align="center">Tools</h3>
+<h2>Selected work</h2>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,pr,eclipse,discord,idea,pycharm&perline=10" width="650"/>
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/reeehaan/online-event-ticket-booking-system"><strong>Event Ticket Booking</strong></a></h3>
+<p>Full-stack MERN event ticketing platform with PayHere payment processing and QR-coded digital tickets.</p>
+<p><sub>JavaScript · MERN</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/reeehaan/design-eleven-website"><strong>Design Eleven Website</strong></a></h3>
+<p>Marketing and lead-gen website built for a construction company.</p>
+<p><sub>TypeScript · Client project</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/reeehaan/passport-automation-project"><strong>Passport Automation</strong></a></h3>
+<p>Passport automation system built with JavaFX.</p>
+<p><sub>Java · JavaFX</sub></p>
+</td>
+</tr>
+</table>
 
-<br/>
-<hr/>
+<h2>Signal</h2>
 
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/reeehaan/reeehaan/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4" width="100%" alt="GitHub stats" />
+</p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=reeehaan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=reeehaan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=reeehaan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<h2>Stack</h2>
 
-<br/><br/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4" width="100%" alt="Language stack" />
+</p>
 
-<hr/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,express,js,html,css,tailwind,java,python,spring,laravel,php,mongodb,mysql,postgresql,firebase,aws,docker,git,figma&perline=11" alt="Tools and technologies" />
+</p>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
-</h3>
+<h2>Activity</h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=reeehaan&theme=ocean&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93309630%3Fv%3D4&mode=dark" width="100%" alt="Contribution heatmap" />
+  </picture>
+</p>
 
-<br/>
+<hr />
 
-<div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at barista' /></a>
-</div>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let's build something</h2><p>Open to collaboration, interesting products and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://www.linkedin.com/in/rehan-hansaja">Message me on LinkedIn</a></td>
+</tr>
+</table>
 
-<br/>
+<p align="center"><sub>Rehan Hansaja · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
